@@ -1,5 +1,11 @@
 import "./App.css";
+import BoxColor from "./components/BoxColor.jsx";
+import CreditCard from "./components/CreditCard.jsx";
+import DriveCard from "./components/DriveCard.jsx";
+import Greetings from "./components/Greetings.jsx";
 import IdCard from './components/IdCard.jsx'
+import Random from "./components/Random.jsx";
+import Rating from "./components/Rating.jsx";
 
 function App() {
   return (
